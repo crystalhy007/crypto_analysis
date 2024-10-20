@@ -2,8 +2,9 @@
 
 ## Overview
 
-This project analyzes the funding rates of cryptocurrency futures using data obtained from the Gate.io API. The funding rate is a crucial metric in crypto futures trading, representing periodic payments made between traders. The objective of this project is to extract, process, and analyze funding rate data to identify trends and insights.
+This project analyzes cryptocurrency futures funding rates using data from the Gate.io API. The initiative began when a friend reached out, requesting an automated list of futures prices to assist with investment decisions. This request sparked my interest to dive deeper into crypto analysis, aiming to not only provide timely information but also explore patterns, trends, and relationships within the data.
 
+The main goals are to automate data extraction, perform comprehensive analyses, and develop insights that can inform better trading and investment strategies in the crypto futures market.
 ## Project Goals
 
 - **Extract** funding rate data for various cryptocurrency contracts from the Gate.io API.
