@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# The script is intended for use on a website for displaying 3 days of average crypto futures funding rate data
+
 import requests
 import pandas as pd
 import numpy as np
