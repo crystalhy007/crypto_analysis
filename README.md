@@ -1,4 +1,4 @@
-# Crypto Futures Rate Analysis
+# Crypto Futures Funding Rate Analysis
 
 ## Overview
 
