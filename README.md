@@ -54,8 +54,6 @@ The final output is a merged DataFrame containing average funding rates over thr
 - **Visualize Trends:** Use visualization libraries like Matplotlib or Seaborn to create graphical representations of the data.
 - **Automate Data Retrieval:** Implement a scheduling mechanism to automate data extraction at regular intervals.
 
-## Conclusion
-
 
 ## Acknowledgments
 
